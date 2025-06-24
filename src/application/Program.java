@@ -9,6 +9,6 @@ public class Program {
 
         System.out.println(obj);
 
-        int a = 3;
+
     }
 }
